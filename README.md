@@ -16,7 +16,7 @@ python main.py --config_path "<config_path>/<filename>.yaml" --task "train"
 
  
  ```
- python solarnet/main.py --config_path "<config_path>/<filename>.yaml" --task "test"
+ python main.py --config_path "<config_path>/<filename>.yaml" --task "test"
  
  ```
  
