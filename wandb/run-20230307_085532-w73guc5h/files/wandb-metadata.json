@@ -1,0 +1,28 @@
+{
+    "os": "macOS-12.5.1-arm64-arm-64bit",
+    "python": "3.9.9",
+    "heartbeatAt": "2023-03-07T07:55:33.025767",
+    "startedAt": "2023-03-07T07:55:32.159040",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/yanashtyk/PycharmProjects/resnet_magn/main.py",
+    "codePath": "main.py",
+    "host": "Yanas-MacBook-Pro.local",
+    "username": "yanashtyk",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/solar/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "total": 1858.1917190551758,
+        "used": 419.5856475830078
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

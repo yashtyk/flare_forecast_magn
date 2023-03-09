@@ -1,0 +1,11 @@
+
+training epoch: {}
+validation..
+epoch: 0, train_loss: 0.013543507962856652, val_loss: 0.9539308051268259, wait_epoch: 0
+Traceback (most recent call last):
+  File "/Users/yanashtyk/PycharmProjects/resnet_magn/main.py", line 83, in <module>
+    train_command(parameters)
+  File "/Users/yanashtyk/PycharmProjects/resnet_magn/main.py", line 71, in train_command
+    train(tr_dataloader, val_dataloader, model, loss, epoch_es, epochs, optimizer, device, path  )
+  File "/Users/yanashtyk/PycharmProjects/resnet_magn/train.py", line 43, in train
+    etalon_loss = val_loss
